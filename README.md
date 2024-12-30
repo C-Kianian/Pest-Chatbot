@@ -3,6 +3,7 @@ Contains the files used to make the chatbot, multiple different ways of generati
 When running w/ Exllamav2: 
 pros: fully local, no rate/token limits. 
 cons: requires 15gb of gpu ~ limited by hardware, slower than the api. 
+*Please note that due to my computer limitations the Exllama notebooks were ran on kaggle using the 2x T4 gpu option
 
 When running w/ HuggingFace api: pros: fast compared to exllamav2, 
 can easily use different models, allows the user to surpass hardware limitations. 
