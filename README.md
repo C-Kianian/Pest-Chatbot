@@ -12,3 +12,6 @@ cons: rate/token limits, not fully local.
 When running w/ ollama: 
 pros: fully local, easy to setup.
 cons: limited by hardware.
+
+
+*for all KG + embedding notebooks, the runtimes could potentially be reduced with batched or asynchronous inference
