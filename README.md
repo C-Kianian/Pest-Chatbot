@@ -1,4 +1,4 @@
-# Pest-Chatbot
+# Pest-Chatbot - Still working on getting all code added
 Contains the files used to make the chatbot, multiple different ways of generating a knowledge graph + embeddings, then also slightly different ways to communicate with the chatbot.  
 When running w/ Exllamav2: 
 pros: fully local, no rate/token limits. 
